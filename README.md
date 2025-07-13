@@ -49,16 +49,3 @@ Make sure Python is installed, then run:
 
 ```bash
 python scrape_books.py
-The scraped data will be saved to books_data.csv.
-Sample Output
-Title	Price	Availability
-A Light in the Attic	£51.77	In stock
-Tipping the Velvet	£53.74	In stock
-Soumission	£50.10	In stock
-
- Author
-Bindia Thayumanavan
- B.Tech Artificial Intelligence and Machine Learning
- Tamil Nadu, India
- 
-
